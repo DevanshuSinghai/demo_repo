@@ -1,4 +1,4 @@
 # demo_repo
-This is my first commitment   offcourse on git hub .
+I am the BOSS big BOSS.
 <br>
-Author - Devanshu singhai
+Author - Devanshu Singhai
